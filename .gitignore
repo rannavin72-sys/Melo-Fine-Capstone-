@@ -1,0 +1,14 @@
+# MeloFine .gitignore
+backend/target/
+frontend/dist/
+frontend/node_modules/
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+*.env
+.env.local
+.env.*.local
+*.log
+npm-debug.log*
